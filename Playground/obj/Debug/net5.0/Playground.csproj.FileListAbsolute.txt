@@ -1,0 +1,16 @@
+C:\Users\Phil\Desktop\C#\Playground\bin\Debug\net5.0\Playground.exe
+C:\Users\Phil\Desktop\C#\Playground\bin\Debug\net5.0\Playground.deps.json
+C:\Users\Phil\Desktop\C#\Playground\bin\Debug\net5.0\Playground.runtimeconfig.json
+C:\Users\Phil\Desktop\C#\Playground\bin\Debug\net5.0\Playground.runtimeconfig.dev.json
+C:\Users\Phil\Desktop\C#\Playground\bin\Debug\net5.0\Playground.dll
+C:\Users\Phil\Desktop\C#\Playground\bin\Debug\net5.0\ref\Playground.dll
+C:\Users\Phil\Desktop\C#\Playground\bin\Debug\net5.0\Playground.pdb
+C:\Users\Phil\Desktop\C#\Playground\obj\Debug\net5.0\Playground.csproj.AssemblyReference.cache
+C:\Users\Phil\Desktop\C#\Playground\obj\Debug\net5.0\Playground.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phil\Desktop\C#\Playground\obj\Debug\net5.0\Playground.AssemblyInfoInputs.cache
+C:\Users\Phil\Desktop\C#\Playground\obj\Debug\net5.0\Playground.AssemblyInfo.cs
+C:\Users\Phil\Desktop\C#\Playground\obj\Debug\net5.0\Playground.csproj.CoreCompileInputs.cache
+C:\Users\Phil\Desktop\C#\Playground\obj\Debug\net5.0\Playground.dll
+C:\Users\Phil\Desktop\C#\Playground\obj\Debug\net5.0\ref\Playground.dll
+C:\Users\Phil\Desktop\C#\Playground\obj\Debug\net5.0\Playground.pdb
+C:\Users\Phil\Desktop\C#\Playground\obj\Debug\net5.0\Playground.genruntimeconfig.cache
