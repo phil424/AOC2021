@@ -23,6 +23,10 @@ namespace Playground
             Console.WriteLine($"Depth = {depth}");
             Console.WriteLine($"{horizontalPos * depth}");
         }
+        // public Day2Puzzle1()
+        // {
+        //     Console.WriteLine($"{rawInput.Where(y => y.Contains("forward")).Select(x => Convert.ToInt32(x.Replace("forward ", ""))).ToArray().Sum() * (rawInput.Where(y => y.Contains("down")).Select(x => Convert.ToInt32(x.Replace("down ", ""))).ToArray().Sum() - rawInput.Where(y => y.Contains("up")).Select(x => Convert.ToInt32(x.Replace("up ", ""))).ToArray().Sum())}");
+        // }
     }
     class Day2Puzzle2
     {
