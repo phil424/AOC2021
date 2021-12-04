@@ -46,7 +46,6 @@ namespace Playground
                 }
                 winningNumber = number;
 
-
                 foreach (var card in cards)
                 {
                     if(weWon)
